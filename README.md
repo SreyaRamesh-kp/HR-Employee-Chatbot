@@ -1,4 +1,4 @@
-## 💼 HR Employment Chatbot (RAG-Based)
+## 💼HR Knowledge Assistant: A RAG-Based AI Chatbot
 
 An AI-powered HR Employment Chatbot built using **Retrieval-Augmented Generation (RAG)**. The chatbot retrieves relevant information from an HR knowledge base and generates accurate, context-aware responses to employment-related queries, helping users understand company policies, recruitment processes, job opportunities, and workplace guidelines.
 
